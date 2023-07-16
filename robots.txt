@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Disallow:/Templates/
+Disallow:/Library/
+Disallow:/styles/
+
+Disallow:/press/
+
+
+Sitemap: http://elsadorman.com/sitemap.xml
